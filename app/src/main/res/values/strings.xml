@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Product Search</string>
+    <string name="edit_message">Producto a buscar</string>
+    <string name="button_send">Buscar</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Buscador</string>
+    <string name="title_activity_mostrar_resultado">mostrarResultado</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
